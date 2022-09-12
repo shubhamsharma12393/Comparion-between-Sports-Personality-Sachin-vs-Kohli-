@@ -15,13 +15,13 @@ Comparison-between-Sports-Personality-Sachin-vs-Kohli-
   
   
   
-  SR = 100*(Total Runs/Total Balls)
+1.  SR = 100*(Total Runs/Total Balls)
   
   
-  100's = sum(100's)
+2. 100's = sum(100's)
   
   
-  50's = sum(50's)
+3.  50's = sum(50's)
   
   
-  Team contribution = Player Runs/Team Runs (ex: Virat 50/ Team Ind 150 => 50/150 : 33%)
+4.  Team contribution = Player Runs/Team Runs (ex: Virat 50/ Team Ind 150 => 50/150 : 33%)
