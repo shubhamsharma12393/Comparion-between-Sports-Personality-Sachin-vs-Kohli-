@@ -1,11 +1,20 @@
 Comparison-between-Sports-Personality-Sachin-vs-Kohli-
+    
+    
     Who is the better batsman according to our model?
 
 
+  We will check for following factors
 
-
+  
+  
+  
+  
   Runs per innings = Total Runs/Total Innings
 
+  
+  
+  
   SR = 100*(Total Runs/Total Balls)
   
   
